@@ -1,0 +1,10 @@
+{
+  "name": "js-algorithms-data-structures",
+  "version": "1.0.0",
+  "description": "A repository to guide learns about js algorithms and data structures!",
+  "main": "index.js",
+  "repository": "https://github.com/TecJP/js-algorithms-data-structures",
+  "author": "TecJP <tec.joao.freitas@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
